@@ -10,6 +10,8 @@
 
 * Mentoria 01: Desenvolvendo a sua Liderança e Protagonismo como embaixador(a) da DIO! : [YouTube](https://www.youtube.com/watch?v=0rclFcALPDA) - [DIO](https://web.dio.me/lives/mentoria-01-desenvolvendo-a-sua-lideranca-e-protagonismo-como-embaixadora-da-dio?back=/track/dio-campus-expert-turma-09)
 
+* [Meu Card DIO no Linkedin](https://www.linkedin.com/posts/lelebertoldi_eusoudiocampusexpert-activity-7226619750066323456-n-LJ?utm_source=share&utm_medium=member_desktop)
+
 ---
 
 ## Semana 02
