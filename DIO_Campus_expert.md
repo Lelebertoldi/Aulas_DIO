@@ -16,8 +16,8 @@
 
 *  : [YouTube]() - [DIO](https://web.dio.me/lives/saiba-usar-o-linkedin-de-forma-estrategica-para-atrair-grandes-empresas-de-tecnologia?back=/track/dio-campus-expert-turma-09)
 
-
-
+* Desafio 01 | DIO Campus Expert - Turma 09 : [YouTube](https://www.youtube.com/watch?v=bka5Lck9I7M) - [DIO](https://web.dio.me/lives/desafio-01-dio-campus-expert-turma-09)
+  * [Desafio no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7229206090775728128/)
 
 
 
