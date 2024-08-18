@@ -16,7 +16,9 @@
 
 ## Semana 02
 
-*  : [YouTube]() - [DIO](https://web.dio.me/lives/saiba-usar-o-linkedin-de-forma-estrategica-para-atrair-grandes-empresas-de-tecnologia?back=/track/dio-campus-expert-turma-09)
+* Saiba usar o LinkedIn de forma estratégica para atrair Grandes Empresas de Tecnologia! : [YouTube](https://www.youtube.com/watch?v=zchtb_s5MmU) - [DIO](https://web.dio.me/lives/saiba-usar-o-linkedin-de-forma-estrategica-para-atrair-grandes-empresas-de-tecnologia-2?back=/track/dio-campus-expert-turma-09)
+
+* Mentoria 02: Transformando o seu perfil em um imã de grandes oportunidades! : [YouTube](https://www.youtube.com/watch?v=GivMfPWqOgs) - [DIO](https://web.dio.me/lives/mentoria-02-transformando-o-seu-perfil-em-um-ima-de-grandes-oportunidades?back=/track/dio-campus-expert-turma-09)
 
 * Desafio 01 | DIO Campus Expert - Turma 09 : [YouTube](https://www.youtube.com/watch?v=bka5Lck9I7M) - [DIO](https://web.dio.me/lives/desafio-01-dio-campus-expert-turma-09)
   * [Desafio no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7229206090775728128/)
