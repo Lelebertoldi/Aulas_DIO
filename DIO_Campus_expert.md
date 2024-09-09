@@ -41,7 +41,7 @@
 * Mentoria 03: Estruturando o seu Portfólio para Decolar a sua Carreira! [YouTube](https://www.youtube.com/watch?v=YNSCACmskwc) - [DIO](https://web.dio.me/lives/mentoria-03-estruturando-o-seu-portfolio-para-decolar-a-sua-carreira?back=/track/dio-campus-expert-turma-09)
 
 * Desafio 03 | DIO Campus Expert - Turma 09 [YouTube](https://www.youtube.com/watch?v=pFmm24U6AyA) - [DIO](https://web.dio.me/lives/desafio-03-dio-campus-expert-turma-09?back=/track/dio-campus-expert-turma-09)
-  * [Desafio no Linkedin]()
+  * [Desafio no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7238968829173764098/)
 
 * Mentoria 04: Portfólio, a forma mais fácil de você demonstrar experiência prática! [YouTube](https://www.youtube.com/watch?v=6ordmEWrCjM) - [DIO](https://web.dio.me/lives/mentoria-04-portfolio-a-forma-mais-facil-de-voce-demonstrar-experiencia-pratica?back=/track/dio-campus-expert-turma-09)
 
