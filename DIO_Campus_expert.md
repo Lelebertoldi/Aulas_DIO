@@ -33,14 +33,33 @@
 
 * Mentoria 03: Conhecendo o seu Propósito de Carreira e desenvolvendo o Autoconhecimento! : [YouTube](https://www.youtube.com/watch?v=v__oo1BHmfU) - [DIO](https://web.dio.me/lives/mentoria-03-conhecendo-o-seu-proposito-de-carreira-e-desenvolvendo-o-autoconhecimento?back=/track/5738a8a6-f6fc-43f9-919d-503ff392be2f)
 
+---
 
+## Semana 04
 
+*  [YouTube]() - [DIO]()
 
+*  [YouTube]() - [DIO]()
 
+*  [YouTube]() - [DIO]()
 
+---
 
+## Semana 05
 
+*  [YouTube]() - [DIO]()
 
+*  [YouTube]() - [DIO]()
 
+*  [YouTube]() - [DIO]()
 
+---
+
+## Semana 06
+
+*  [YouTube]() - [DIO]()
+
+*  [YouTube]() - [DIO]()
+
+*  [YouTube]() - [DIO]()
 
