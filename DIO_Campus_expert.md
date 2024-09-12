@@ -64,5 +64,8 @@
 
 * Mentoria 05: Criando o seu Primeiro Conteúdo na área de Tecnologia - Parte 02 [YouTube](https://www.youtube.com/watch?v=p4BWIaeR1io) - [DIO](https://web.dio.me/lives/mentoria-05-criando-o-seu-primeiro-conteudo-na-area-de-tecnologia-parte-02?back=/track/dio-campus-expert-turma-09)
 
+* Desafio 05 | DIO Campus Expert - Turma 09 [YouTube](https://www.youtube.com/watch?v=zK8cCjhqVdM) - [DIO](https://web.dio.me/lives/desafio-05-dio-campus-expert-turma-09/learning/null?back=/track/dio-campus-expert-turma-09&tab=undefined&moduleId=undefined)
+
 * Mentoria 06: Como se posicionar e se destacar para novas oportunidades em tecnologia! [YouTube]() - [DIO](https://web.dio.me/lives/mentoria-06-como-se-posicionar-e-se-destacar-para-novas-oportunidades-em-tecnologia-2?back=/track/dio-campus-expert-turma-09)
 
+* Encerramento T09: Os próximos da sua jornada após o DIO Campus Expert! [YouTube](https://www.youtube.com/watch?v=GYyXRqL-Irc) - [DIO](https://web.dio.me/lives/encerramento-t09-os-proximos-da-sua-jornada-apos-o-dio-campus-expert?back=/track/dio-campus-expert-turma-09)
