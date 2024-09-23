@@ -8,6 +8,7 @@
 
 - [Versionamento de Código com Git e GitHub - Arquivos e Videoaulas](https://github.com/Lelebertoldi/Aulas_DIO/blob/main/Versionamento_de_C%C3%B3digo_com_Git_e_GitHub.md)
 
+- [Conhecendo as Bibliotecas Pandas e Scikit-Learn](https://github.com/Lelebertoldi/Aulas_DIO/blob/main/Conhecendo_as_Bibliotecas_Pandas_e_Scikit-Learn.md)
 ---
 
 ## Turma DIO Campus Expert Embaixadores
